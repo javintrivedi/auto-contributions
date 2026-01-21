@@ -1,6 +1,6 @@
 // Objective: Learn to build a reactive timer in Kotlin using Flows to update a UI element in real-time.
 // This tutorial will demonstrate how to use Kotlin Flows to create a stream of data (timer ticks)
-// and how to collec this stream to update a simple UI representation.
+// and how to collect this stream to update a simple UI representation.
 // We will focus on the `flow` builder and `collect` terminal operator.
 
 import kotlinx.coroutines.*
